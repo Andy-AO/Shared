@@ -1,0 +1,4 @@
+[tool.poetry]
+name = "test_for_version_manage"
+version = "1.0.0"
+
