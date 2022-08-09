@@ -1,0 +1,42 @@
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\bin\Debug\net6.0\App1.exe
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\bin\Debug\net6.0\App1.deps.json
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\bin\Debug\net6.0\App1.runtimeconfig.json
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\bin\Debug\net6.0\App1.dll
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\bin\Debug\net6.0\App1.pdb
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\obj\Debug\net6.0\App1.csproj.AssemblyReference.cache
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\obj\Debug\net6.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\obj\Debug\net6.0\App1.AssemblyInfoInputs.cache
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\obj\Debug\net6.0\App1.AssemblyInfo.cs
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\obj\Debug\net6.0\App1.csproj.CoreCompileInputs.cache
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\obj\Debug\net6.0\App1.dll
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\obj\Debug\net6.0\refint\App1.dll
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\obj\Debug\net6.0\App1.pdb
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\obj\Debug\net6.0\App1.genruntimeconfig.cache
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\obj\Debug\net6.0\ref\App1.dll
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\bin\Debug\net6.0\App2.deps.json
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\bin\Debug\net6.0\App2.runtimeconfig.json
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\bin\Debug\net6.0\App2.exe
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\bin\Debug\net6.0\App2.dll
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\bin\Debug\net6.0\App2.pdb
+D:\MyDocs\重要文档\obsidian\default\软件开发\CSharp\进程 Process\exit_code_500\App1\obj\Debug\net6.0\App1.csproj.CopyComplete
+D:\GitRepository\exit_code_500\App1\bin\Debug\net6.0\App2.deps.json
+D:\GitRepository\exit_code_500\App1\bin\Debug\net6.0\App2.runtimeconfig.json
+D:\GitRepository\exit_code_500\App1\bin\Debug\net6.0\App2.exe
+D:\GitRepository\exit_code_500\App1\bin\Debug\net6.0\App1.exe
+D:\GitRepository\exit_code_500\App1\bin\Debug\net6.0\App1.deps.json
+D:\GitRepository\exit_code_500\App1\bin\Debug\net6.0\App1.runtimeconfig.json
+D:\GitRepository\exit_code_500\App1\bin\Debug\net6.0\App1.dll
+D:\GitRepository\exit_code_500\App1\bin\Debug\net6.0\App1.pdb
+D:\GitRepository\exit_code_500\App1\bin\Debug\net6.0\App2.dll
+D:\GitRepository\exit_code_500\App1\bin\Debug\net6.0\App2.pdb
+D:\GitRepository\exit_code_500\App1\obj\Debug\net6.0\App1.csproj.AssemblyReference.cache
+D:\GitRepository\exit_code_500\App1\obj\Debug\net6.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepository\exit_code_500\App1\obj\Debug\net6.0\App1.AssemblyInfoInputs.cache
+D:\GitRepository\exit_code_500\App1\obj\Debug\net6.0\App1.AssemblyInfo.cs
+D:\GitRepository\exit_code_500\App1\obj\Debug\net6.0\App1.csproj.CoreCompileInputs.cache
+D:\GitRepository\exit_code_500\App1\obj\Debug\net6.0\App1.csproj.CopyComplete
+D:\GitRepository\exit_code_500\App1\obj\Debug\net6.0\App1.dll
+D:\GitRepository\exit_code_500\App1\obj\Debug\net6.0\refint\App1.dll
+D:\GitRepository\exit_code_500\App1\obj\Debug\net6.0\App1.pdb
+D:\GitRepository\exit_code_500\App1\obj\Debug\net6.0\App1.genruntimeconfig.cache
+D:\GitRepository\exit_code_500\App1\obj\Debug\net6.0\ref\App1.dll
